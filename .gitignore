@@ -1,0 +1,14 @@
+/.metadata/
+
+# ignore Maven generated target folders
+~
+cal/target
+
+# ignore eclipse files
+cal/.project
+cal/.classpath
+cal/.settings
+cal/.metadata
+cal/.checkstyle
+RemoteSystemsTempFiles
+
